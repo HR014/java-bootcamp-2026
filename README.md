@@ -35,17 +35,25 @@ This repository documents my progress from learning Java as a beginner to buildi
 # 📂 Repository Structure
 
 ```text
-Day-01-Java-Basics/
-Day-02-Conditions-Loops/
-Day-03-Methods-Arrays/
-Day-04-OOP/
-Day-05-Collections/
-Day-06-File-Handling-JDBC/
-Day-07-Mini-Projects/
-
-Projects/
-Notes/
-Resources/
+java-bootcamp-2026/
+│
+├── Day-01-Java-Basics/
+├── Day-02-Conditions-Loops/
+├── Day-03-Methods-Arrays/
+├── Day-04-OOP/
+├── Day-05-Collections/
+├── Day-06-File-Handling-JDBC/
+├── Day-07-Mini-Projects/
+│
+├── Projects/
+│   ├── Calculator/
+│   ├── Student-Management-System/
+│   ├── Banking-System/
+│   └── Library-Management-System/
+│
+├── Notes/
+├── Resources/
+└── README.md
 ```
 
 ---
